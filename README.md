@@ -5,3 +5,5 @@ And, IAUV stands for In Planet Utility Vehicle. I also provided a place for a un
 
 Note there is no "Gen 1" because gen 1 was not made in studio.
 There may be a bug with the polysilicon that it isnt in flipflop mode, so you'll have to change it yourself because I dont know how.
+
+All or if not most models will have a little hump on the back of the cab for power cell, ion rocket, and antenna. You could also put some bins up there for wires or something else for convenience.
